@@ -38,7 +38,7 @@
             this.label1.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.label1.Location = new System.Drawing.Point(246, 96);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(437, 153);
+            this.label1.Size = new System.Drawing.Size(437, 227);
             this.label1.TabIndex = 0;
             this.label1.Text = "KTA-25 Johanna Okas Projekt";
             this.label1.Click += new System.EventHandler(this.label1_Click);
