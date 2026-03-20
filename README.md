@@ -1,1 +1,1 @@
-# JO_Kursuse
+# OOP tunnitöö
